@@ -73,7 +73,7 @@ This project introduces a secondary meta-model (**Decision Tree Classifier**) th
 **Seda Yalçın**
 
 - GitHub: [@sedaygit](https://github.com/sedaygit)
-- LinkedIn: [Seda Yalçın](https://linkedin.com)
+- LinkedIn: [Seda Yalçın]([https://linkedin.com](https://www.linkedin.com/in/seda-yalcin/))
 
 ## 📄 License
 
